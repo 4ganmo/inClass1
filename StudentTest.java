@@ -57,12 +57,6 @@ public class StudentTest {
 		int expected = 0;
 		assertEquals(expected,actual);
 		
-		
-
-
-		
-		
-		
 
 
 	}

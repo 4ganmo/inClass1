@@ -17,6 +17,9 @@ public class Person extends NameHolder {
 		
 		super.setFirstName(firstName);
 	}
+	public String getLastName() {
+		return new String(lastName);
+	}
 	
 	
 	@Override
